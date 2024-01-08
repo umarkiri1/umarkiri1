@@ -1,10 +1,12 @@
 Hi 👋 My name is Umar Aliyu Ibrahim
-===================================Lecturer at Sule Lamido University in Kafin Hausa, Jigawa State.----------------------------------------------------------------* 🌍  I'm based in Kano State and originally hail from Jigawa State, Nigeria.* ✉️  You can contact me at [umarkiri@gmail.com](mailto:umarkiri@gmail.com)* 🧠  I'm learning Data Science, Machine Learning and Artificial Intelligence
+** Lecturer at Sule Lamido University in Kafin Hausa, Jigawa State.
+* 🌍  I'm based in Kano State and originally hail from Jigawa State, Nigeria.* ✉️  You can contact me at [umarkiri@gmail.com](mailto:umarkiri@gmail.com)
+* 🧠  I'm learning Data Science, Machine Learning and Artificial Intelligence
 
 <a href="https://www.github.com/umarkiri1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/umarkiri1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+*** Skills ***
 
 
 <p align="left">
